@@ -1,0 +1,9 @@
+fastp
+genomescope2
+kmc
+kraken2
+numpy
+pandas
+seqkit
+sra-tools
+taxonkit
