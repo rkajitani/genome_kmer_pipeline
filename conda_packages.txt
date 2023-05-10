@@ -1,3 +1,4 @@
+entrez-direct
 fastp
 genomescope2
 kmc
